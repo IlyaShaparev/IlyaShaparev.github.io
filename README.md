@@ -20,3 +20,25 @@ This project is not finished and soon I plan to add a Backend part for it in the
 :iphone: Another equally interesting feature of this project is the presence of adaptive layout. The resource was written using Mobile First technology, which made it possible to create the most convenient mobile interface.
 
 So, for example, the navigation menu turns into a burger menu at a low screen resolution, and tables acquire scrolling.
+<div align="center">
+    <h3>Menu</h3>
+    <img src="https://github.com/IlyaShaparev/IlyaShaparev.github.io/blob/main/img/Menu_first.png"/>
+    <p align="center">Pic.1. Menus on high-resolution devices</p>
+</div>
+<div align="center">
+    <img src="https://github.com/IlyaShaparev/IlyaShaparev.github.io/blob/main/img/Menu_second.png"/>
+    <br>
+    <img src="https://github.com/IlyaShaparev/IlyaShaparev.github.io/blob/main/img/Menu_third.png"/>
+    <p align="center">Pic.2-3. Menus on low-resolution devices</p>
+</div>
+<div align="center">
+    <h3>Tables</h3>
+    <img src="https://github.com/IlyaShaparev/IlyaShaparev.github.io/blob/main/img/Table_first.png"/>
+    <p align="center">Pic.1. Tables on high-resolution devices</p>
+</div>
+<div align="center">
+    <img src="https://github.com/IlyaShaparev/IlyaShaparev.github.io/blob/main/img/Table_second.png"/>
+    <p align="center">Pic.2. Tables on low-resolution devices</p>
+</div>
+
+<h3 align="center">:star::fireworks:Thank you for attention!:fireworks::star:</h3> 
